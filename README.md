@@ -17,23 +17,9 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAuTeixeira&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAuTeixeira&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ## 📫 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com)  
 - 📧 **bruno.teixeira2@icloud.com**  
-- 🌐 [Portfólio](https://github.com/BrunoAuTeixeira)
 
 ---
 
